@@ -10,9 +10,9 @@ This application is a Node-based command line tool for generating an HTML file d
 
 To run this application, run 'node index.js' from the root directory of the deployment. You may need to run 'npm install' to acquire necessary dependencies.
 
-![GIF Demo](demo.gif)
+![GIF Demo](./demo.gif)
 
-![Screenshot of HTML Output](screenshot.png)
+![Screenshot of HTML Output](./screenshot.png)
 
 ### Questions? 
 GitHub: [@rjcostanzo](https://api.github.com/users/rjcostanzo)
